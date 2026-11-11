@@ -40,9 +40,14 @@ Why do employees leave, is pay fair, and is performance rewarded? This project a
 
 ## Dashboard Previews
 <!-- Add screenshots here: drag images into this file while editing -->
-**Excel:** _screenshot_
-**Power BI:** _screenshot_
-**Tableau:** _screenshot_
+**Excel:
+**<img width="1219" height="735" alt="image" src="https://github.com/user-attachments/assets/78ed56ce-265d-4361-95cb-e150c179a43c" />
+
+**Power BI:
+**<img width="1512" height="853" alt="image" src="https://github.com/user-attachments/assets/700ac9e4-d8f5-45fd-9beb-f676b946b4db" />
+
+**Tableau:
+**<img width="1699" height="867" alt="HR_Tableau_Dashboard" src="https://github.com/user-attachments/assets/2fe3e573-ee62-4abe-b64f-e61e1c1333a1" />
 
 ## Repository Files
 | File | Description |
